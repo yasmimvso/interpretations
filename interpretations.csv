@@ -1,0 +1,34 @@
+action_ref,obj_ref,obj_num_ref,unit_obj_ref,action_dt,obj_dt,obj_num_dt,unit_impact,category,reference
+
+driving,gasoline car,5000,miles,emits,CO2e,1,tonne,transportation,https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/
+
+combusting,diesel,398,liters,emits,CO2e,1,tonne,transportation,https://www.bryceenergyservices.com/2024/05/09/tonne-of-co2e-in-real-life/
+
+riding,electric scooter,10,miles,emits,CO2e,2.721,kilograms,transportation,https://www.chesterenergyandpolicy.com/blog/electric-scooter-sustainable
+
+using,60W incandescent bulb,1,hour,emits,CO2e,0.798,kg,energy,https://energytheory.com/how-much-co2-does-a-light-bulb-produce-per-hour/
+
+taking,high-speed train,21600,miles,emits,CO2e,1,tonne,transportation,https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/
+
+planting,tree,50,units,capturing,CO2e,1,tonne,reduction,https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/
+
+flying,round-trip,2.6,between New York and Miami,emits,CO2e,1,tonne,transportation,https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/
+
+charging,smartphone,121643,charges,emits,CO2e,1,tonne,electronics,https://www.crownoil.co.uk/news/1-tonne-of-co2-what-does-it-look-like/
+
+washing,laundry load,1,load,emits,CO2e,700,grams,daily activities,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+boiling,water,1,liter,emits,CO2e,70,grams,daily activities,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+taking,shower,12,minutes,emits,CO2e,1,kilogram,daily activities,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+sending,email,1,email without attachment,emits,CO2e,4,grams,electronics,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+sending,email,1,email with attachment,emits,CO2e,50,grams,electronics,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+using,cookstove,6,months,reduces,CO2e,1,tonne,reduction,https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/
+
+heating,home heating,1,hour,emits,CO2e,500,grams,daily activities,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+
+consuming,orange juice,1,liter,emits,CO2e,3.6,kilograms,food,https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482
+

@@ -1,0 +1,198 @@
+{
+    "data":[
+        {
+            "action_ref": "driving",
+            "obj_ref": "gasoline car",
+            "obj_num_ref": 5000,
+            "unit_obj_ref": "miles",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "transportation",
+            "reference":"https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/"
+        },
+        {
+            "action_ref": "combusting",
+            "obj_ref": "diesel",
+            "obj_num_ref": 398,
+            "unit_obj_ref": "liters",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "transportation",
+            "reference":"https://www.bryceenergyservices.com/2024/05/09/tonne-of-co2e-in-real-life/"
+        },
+        {
+            "action_ref": "riding",
+            "obj_ref": "electric scooter",
+            "obj_num_ref": 10,
+            "unit_obj_ref": "miles",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 2.721,
+            "unit_impact": "kilograms",
+            "category": "transportation",
+            "reference": "https://www.chesterenergyandpolicy.com/blog/electric-scooter-sustainable"
+        },
+        {
+            "action_ref": "using",
+            "obj_ref": "60W incandescent bulb",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "hour",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 0.798,
+            "unit_impact": "kg",
+            "category": "energy",
+            "reference": "https://energytheory.com/how-much-co2-does-a-light-bulb-produce-per-hour/"
+        },
+        {
+            "action_ref": "taking",
+            "obj_ref": "high-speed train",
+            "obj_num_ref": 21600,
+            "unit_obj_ref": "miles",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "transportation",
+            "reference":"https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/"
+        },
+        {
+            "action_ref": "planting",
+            "obj_ref": "tree",
+            "obj_num_ref": 50,
+            "unit_obj_ref": "units",
+            "action_dt": "capturing",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "reduction",
+            "reference":"https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/"
+        },
+        {
+            "action_ref": "flying",
+            "obj_ref": "round-trip",
+            "obj_num_ref": 2.6,
+            "unit_obj_ref": "between New York and Miami",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "transportation",
+             "reference":"https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/"
+        },
+        {
+            "action_ref": "charging",
+            "obj_ref": "smartphone",
+            "obj_num_ref": 121643,
+            "unit_obj_ref": "charges",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "electronics",
+            "reference": "https://www.crownoil.co.uk/news/1-tonne-of-co2-what-does-it-look-like/"
+        },
+        {
+        
+            "action_ref": "washing",
+            "obj_ref": "laundry load",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "load",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 700,
+            "unit_impact": "grams",
+            "category": "daily activities",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "boiling",
+            "obj_ref": "water",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "liter",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 70,
+            "unit_impact": "grams",
+            "category": "daily activities",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "taking",
+            "obj_ref": "shower",
+            "obj_num_ref": 12,
+            "unit_obj_ref": "minutes",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "kilogram",
+            "category": "daily activities",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "sending",
+            "obj_ref": "email",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "email without attachment",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 4,
+            "unit_impact": "grams",
+            "category": "electronics",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "sending",
+            "obj_ref": "email",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "email with attachment",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 50,
+            "unit_impact": "grams",
+            "category": "electronics",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "using",
+            "obj_ref": "cookstove",
+            "obj_num_ref": 6,
+            "unit_obj_ref": "months",
+            "action_dt": "reduces",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 1,
+            "unit_impact": "tonne",
+            "category": "reduction",
+            "reference":"https://www.anthesisgroup.com/insights/what-exactly-is-1-tonne-of-co2/"
+        },
+        {
+            "action_ref": "heating",
+            "obj_ref": "home heating",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "hour",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 500,
+            "unit_impact": "grams",
+            "category": "daily activities",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        },
+        {
+            "action_ref": "consuming",
+            "obj_ref": "orange juice",
+            "obj_num_ref": 1,
+            "unit_obj_ref": "liter",
+            "action_dt": "emits",
+            "obj_dt": "CO2e",
+            "obj_num_dt": 3.6,
+            "unit_impact": "kilograms",
+            "category": "food",
+            "reference": "https://www.dw.com/en/a-day-in-co2e-emissions/a-18892482"
+        }
+        
+    ]
+}
